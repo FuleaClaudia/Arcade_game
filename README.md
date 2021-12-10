@@ -1,1 +1,1 @@
-# Arcade_game
+# Arcade classic game in JavaScript on Canvas
